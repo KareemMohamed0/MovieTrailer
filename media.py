@@ -3,6 +3,7 @@ import webbrowser
 
 # movie class 
 class Movie():
+    """  this class provide a way to store movie information """
 
 # intialize movie class
     def __init__(self, movie_title, movie_storyline, poster_image,
